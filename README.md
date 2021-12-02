@@ -1,4 +1,4 @@
-# cs305_Mod5_Repo
+# CS305 Module 5 Repository
 Repository Manager: Nick Nannen
 
 ## What this project is about:
