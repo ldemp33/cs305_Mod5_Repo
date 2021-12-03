@@ -7,3 +7,5 @@ Repository Manager: Nick Nannen
 * Please make sure to include verbose comments in all of your pull requests and commits
 * Please comment any code well and make sure that it is clear and readable
 * If you have any questions, feel free to email the Repository Manager at thisisafakeemail@notanemailserver.com
+
+Contributor: Isabel Salazar - is356
