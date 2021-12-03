@@ -10,3 +10,6 @@ would feature the main hero "Boss Leader" in his unmistakable green space armor.
 
 ## Licensing:
 This project will be using the [GNU Genrral Public License v3.0](https://github.com/nicknannen1129/cs305_Mod5_Repo/blob/main/LICENSE)
+
+# Suggestion
+Maybe adding a zombie-like creature to the game would be a nice touch.
