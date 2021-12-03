@@ -9,3 +9,4 @@ Repository Manager: Nick Nannen
 * If you have any questions, feel free to email the Repository Manager at thisisafakeemail@notanemailserver.com
 
 Contributor: Isabel Salazar - is356
+Contributor: Lane Dempsey - ldemp33
